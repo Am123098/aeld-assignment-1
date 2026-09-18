@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/bash
 
 if [[ $# -lt 2 ]]; then
     echo "ERROR: Invalide number of arguments!! (expected: 2 found: $#)"
